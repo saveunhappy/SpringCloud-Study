@@ -1,0 +1,4 @@
+com\mypack\service\DeptClientServiceFallbackFactory$1.class
+com\mypack\entities\Dept.class
+com\mypack\service\DeptClientService.class
+com\mypack\service\DeptClientServiceFallbackFactory.class
